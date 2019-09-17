@@ -1,6 +1,6 @@
-title: Food Images Classifier
-description: Classify food images using deep learning
-about:
+title: Face Recognition
+description: Classify components of selfies
+about: Made by Sam Kapusta 
 
 
   This is a Food Images Classifier using Deep Learning built on top of Pytorch.
@@ -25,10 +25,9 @@ about:
     - [Android](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
     - [iOS](https://itunes.apple.com/us/app/food-classifier/id1445356461?ls=1&mt=8)
+    
 
-
-
-code: https://github.com/npatta01/web-deep-learning-classifier
+code: https://github.com/cabbagelover25/web-deep-learning-classifier
 
 sampleImages:
   - name: lasagne
